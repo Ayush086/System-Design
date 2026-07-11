@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.json": "json",
+        "iostream": "cpp",
+        "vector": "cpp"
+    },
+
+    "C_Cpp.errorSquiggles": "enabled",
+}
