@@ -20,13 +20,13 @@ My personal C++ learning index for OOP, SOLID, design patterns, and small projec
 -  [16-ProxyDesignPattern](16-ProxyDesignPattern/)
 -  [17-ChainOfResponsibilityPattern](17-ChainOfResponsibilityPattern/)
 -  [18-BridgeDesignPattern](18-BridgeDesignPattern/)
--  [Projects](Projects/)
+-  [19-BuilderDesignPattern](19-BuilderDesignPattern/)
 
-### Projects (quick-open)
+### Projects
 - [01-Tomato](Projects/01-Tomato)
 - [02-DesignNotificationEngine](Projects/02-DesignNotificationEngine/notificationSystem.cpp)
 - [03-MusicPlayerApplication](Projects/03-MusicPlayerApplication/main.cpp)
 - [04-PaymentGatewaySystem](Projects/04-PaymentGatewaySystem/paymentGateway.cpp)
 - [05-DiscountCouponEngine](Projects/05-DiscountCouponEngine/implementation.cpp)
 - [06-Zopto](Projects/06-Zopto/implementation.cpp)
-
+- [07-Tinder](Projects/07-Tinder/implementation.cpp)
