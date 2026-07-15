@@ -95,6 +95,7 @@ public:
 
 int main() {
     HTTPRequest request = HTTPRequestBuilder().withURL("https://builder.example.com") // intermediate methods
+                                            //   .withURL("https://bug.com") // overrides previous one
                                               .withMethod("PATCH")
                                               .withHeader("Content-Type", "application/json")
                                               .withHeader("Accept", "application/json")
