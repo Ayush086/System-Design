@@ -21,6 +21,7 @@ My personal C++ learning index for OOP, SOLID, design patterns, and small projec
 -  [17-ChainOfResponsibilityPattern](17-ChainOfResponsibilityPattern/)
 -  [18-BridgeDesignPattern](18-BridgeDesignPattern/)
 -  [19-BuilderDesignPattern](19-BuilderDesignPattern/)
+-  [20-IteratorDesignPattern](20-IteratorDesignPattern/)
 
 ### Projects
 - [01-Tomato](Projects/01-Tomato)
