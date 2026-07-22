@@ -32,3 +32,4 @@ My personal C++ learning index for OOP, SOLID, design patterns, and small projec
 - [05-DiscountCouponEngine](Projects/05-DiscountCouponEngine/implementation.cpp)
 - [06-Zopto](Projects/06-Zopto/implementation.cpp)
 - [07-Tinder](Projects/07-Tinder/implementation.cpp)
+- [08-ExpenseSplittingApplication](Projects/08-SastaSplitwise/implementation.cpp)
