@@ -23,6 +23,7 @@ My personal C++ learning index for OOP, SOLID, design patterns, and small projec
 -  [19-BuilderDesignPattern](19-BuilderDesignPattern/)
 -  [20-IteratorDesignPattern](20-IteratorDesignPattern/)
 -  [21-FlyweightDesignPattern](21-FlyweightDesignPattern/)
+-  [22-StateDesignPattern](22-StateDesignPattern/)
 
 ### Projects
 - [01-Tomato](Projects/01-Tomato)
